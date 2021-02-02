@@ -1,7 +1,7 @@
 package com.niu.activiti.helloworld;
 
 import org.activiti.engine.ProcessEngineConfiguration;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
